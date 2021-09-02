@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.794ae221.chunk.css",
+    "main.js": "/static/js/main.c1b10219.chunk.js",
+    "main.js.map": "/static/js/main.c1b10219.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94033af1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94033af1.js.map",
+    "static/js/2.1aa93d6b.chunk.js": "/static/js/2.1aa93d6b.chunk.js",
+    "static/js/2.1aa93d6b.chunk.js.map": "/static/js/2.1aa93d6b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.794ae221.chunk.css.map": "/static/css/main.794ae221.chunk.css.map",
+    "static/js/2.1aa93d6b.chunk.js.LICENSE.txt": "/static/js/2.1aa93d6b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/OPTISwiss-NoFour.ef9997df.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94033af1.js",
+    "static/js/2.1aa93d6b.chunk.js",
+    "static/css/main.794ae221.chunk.css",
+    "static/js/main.c1b10219.chunk.js"
+  ]
+}
